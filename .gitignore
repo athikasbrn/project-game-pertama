@@ -1,0 +1,8 @@
+Library/*
+Logs/*
+Temp/*
+
+.vsconfig
+*.sln
+
+Assets/Agate Academy.meta
